@@ -17,20 +17,18 @@
           <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/second-app/src/App.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-                  <folding>
-                    <element signature="e#0#39#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="60">
+                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="67" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TopicView.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="TopicView.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicView/TopicView.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="477">
-                  <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+                <state relative-caret-position="312">
+                  <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -38,11 +36,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CategoriesView.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="CategoriesView.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client/second-app/src/components/categoriesView/CategoriesView.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+                <state relative-caret-position="135">
+                  <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
                   <folding>
                     <element signature="e#0#27#0" expanded="true" />
                   </folding>
@@ -50,14 +48,45 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Topic.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topic/Topic.js">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/second-app/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#39#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="45">
+                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TopicsAPI.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/second-app/src/utils/TopicsAPI.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SECOND">
+                  <first_editor relative-caret-position="0">
+                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicDetails/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="495">
+                  <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -74,25 +103,15 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/client/second-app/src/components/home/home.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="TopicDetails.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="TopicDetails.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicDetails/TopicDetails.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+                <state relative-caret-position="432">
+                  <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -100,12 +119,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CreateTopic.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="CreateTopic.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/second-app/src/components/createTopic/CreateTopic.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="37" column="64" lean-forward="true" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
-                  <folding />
+                <state relative-caret-position="510">
+                  <caret line="34" column="60" lean-forward="false" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -117,8 +138,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -142,17 +163,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/second-app/src/components/categoriesView/CategoriesView.js" />
         <option value="$PROJECT_DIR$/client/second-app/src/components/topicView/topicView.css" />
-        <option value="$PROJECT_DIR$/client/second-app/src/components/topicDetails/style.css" />
         <option value="$PROJECT_DIR$/client/second-app/src/components/CreateTopic.js" />
         <option value="$PROJECT_DIR$/client/second-app/src/App.js" />
         <option value="$PROJECT_DIR$/client/second-app/src/components/createTopic/createTopic.css" />
         <option value="$PROJECT_DIR$/client/second-app/package.json" />
         <option value="$PROJECT_DIR$/client/second-app/src/components/home/Home.js" />
         <option value="$PROJECT_DIR$/client/second-app/src/components/topicView/TopicView.js" />
-        <option value="$PROJECT_DIR$/client/second-app/src/components/topicDetails/TopicDetails.js" />
+        <option value="$PROJECT_DIR$/client/second-app/src/components/backButton/BackButton.js" />
         <option value="$PROJECT_DIR$/client/second-app/src/components/createTopic/CreateTopic.js" />
+        <option value="$PROJECT_DIR$/client/second-app/src/components/topicDetails/style.css" />
+        <option value="$PROJECT_DIR$/client/second-app/src/components/topicDetails/TopicDetails.js" />
+        <option value="$PROJECT_DIR$/client/second-app/src/utils/TopicsAPI.js" />
+        <option value="$PROJECT_DIR$/client/second-app/src/components/categoriesView/CategoriesView.js" />
       </list>
     </option>
   </component>
@@ -164,6 +187,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/client/second-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/reactnd-project-readable-starter/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -257,6 +281,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="topicView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondProject" type="462c0819:PsiDirectoryNode" />
+              <item name="reactnd-project-readable-starter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,12 +392,12 @@
       <updated>1508649617775</updated>
       <workItem from="1508649619681" duration="98000" />
       <workItem from="1508649740175" duration="317000" />
-      <workItem from="1508650077667" duration="16038000" />
+      <workItem from="1508650077667" duration="23400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16453000" />
+    <option name="totallyTimeSpent" value="23815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -448,16 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/second-app/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/second-app/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -498,34 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicDetails/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/categoriesView/CategoriesView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/second-app/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/second-app/src/components/home/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -536,30 +527,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicDetails/TopicDetails.js">
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/node_modules/react-dom/lib/ReactCompositeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="792" column="0" lean-forward="false" selection-start-line="792" selection-start-column="0" selection-end-line="792" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/backButton/BackButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="77" lean-forward="true" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1505034258041" expanded="true" signature="12355:12383" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="13776:14106" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+              <marker date="1505034258041" expanded="true" signature="13820:14104" ph="[...]" />
+              <marker date="1505034258041" expanded="true" signature="13821:14103" ph="{&quot;name&quot;: &quot;Chrome&quot;...}" />
+              <marker date="1505034258041" expanded="true" signature="14051:14099" ph="{&quot;webpack:///src/*&quot;: &quot;${webRoot}/*&quot;...}" />
+              <marker date="1505034258041" expanded="true" signature="19167:19198" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="19180:19196" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="19304:19369" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="19448:19503" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="19461:19501" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="21365:21439" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="21444:21476" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="21498:21533" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="21553:21660" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="22651:22708" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="22790:22895" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="22803:22893" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="23974:24040" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="24073:24360" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="29842:29892" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="29999:30086" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="33168:33433" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="33172:33366" ph="//..." />
+              <marker date="1505034258041" expanded="true" signature="41224:41371" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="41311:41364" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="41821:41847" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="52716:53128" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="52738:53117" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="52755:53113" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="52842:53077" ph="//..." />
+              <marker date="1505034258041" expanded="true" signature="54236:54365" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="54245:54365" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="56000:56096" ph="&lt;html/&gt;" />
+              <marker date="1505034258041" expanded="true" signature="56019:56096" ph="&lt;head/&gt;" />
+              <marker date="1505034258041" expanded="true" signature="56030:56096" ph="&lt;script/&gt;" />
+              <marker date="1505034258041" expanded="true" signature="59976:60043" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="60907:60985" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="61024:61069" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="62045:62123" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="62162:62174" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="63096:63174" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="63212:63247" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="64857:64907" ph="..." />
+              <marker date="1505034258041" expanded="true" signature="65380:65446" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="82657:82721" ph="{...}" />
+              <marker date="1505034258041" expanded="true" signature="104441:104489" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/second-app/src/components/createTopic/CreateTopic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="37" column="64" lean-forward="true" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+        <state relative-caret-position="510">
+          <caret line="34" column="60" lean-forward="false" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicDetails/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/node_modules/material-ui/svg-icons/content/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicView/TopicView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+        <state relative-caret-position="312">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/comments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="296" column="16" lean-forward="true" selection-start-line="296" selection-start-column="16" selection-end-line="296" selection-end-column="16" />
+          <folding>
+            <marker date="1503858837513" expanded="true" signature="412:2791" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1098">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/utils/TopicsAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reactnd-project-readable-starter/categories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/topicDetails/TopicDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/second-app/src/components/categoriesView/CategoriesView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>

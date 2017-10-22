@@ -20,7 +20,7 @@ class CreateTopic extends React.Component {
         const {navigateHome} = this.state;
 
         if (navigateHome) {
-            return <Redirect to="/" push/>
+            return <Redirect to='/'/>
         }
 
         return (

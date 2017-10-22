@@ -22,6 +22,7 @@
     margin: 20px;
     padding: 10px;
     display: flex;
+    flex-direction: column;
 }
 
 .topicArea__comment {
@@ -29,4 +30,23 @@
     min-height: 200px;
     height: 200px;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.topic__header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topic__buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.comment__buttons {
+    display: flex;
+
 }
