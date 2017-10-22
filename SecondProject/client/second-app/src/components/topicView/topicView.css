@@ -1,0 +1,33 @@
+.topics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.topic {
+    width: 90%;
+    height: 200px;
+    min-height: 200px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.container {
+    width:100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.appBar {
+    width: 100%;
+}
+
+.floatingButton {
+    position: fixed;
+    bottom: 20px;
+    right:20px;
+}

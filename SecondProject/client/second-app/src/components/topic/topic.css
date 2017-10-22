@@ -1,0 +1,5 @@
+.paper {
+    width: 70%;
+    height: calc(100% - 40px);
+    margin: 20px;
+}
